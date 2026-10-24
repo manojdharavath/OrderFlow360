@@ -10,11 +10,6 @@ venv/
 .env.*
 !.env.example
 
-# Raw and generated datasets
-data/raw/
-data/processed/
-data/rejected/
-
 # Generated reports
 reports/
 
