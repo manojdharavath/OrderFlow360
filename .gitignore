@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Sensitive configuration
+.env.*
+!.env.example
+
+# Raw and generated datasets
+data/raw/
+data/processed/
+data/rejected/
+
+# Generated reports
+reports/
+
+# Editor files
+.vscode/
